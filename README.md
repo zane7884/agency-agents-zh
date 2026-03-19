@@ -9,6 +9,7 @@ Chinese community edition of [agency-agents](https://github.com/msitarzewski/age
 [![GitHub stars](https://img.shields.io/github/stars/jnMetaCode/agency-agents-zh?style=social)](https://github.com/jnMetaCode/agency-agents-zh)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
+[![QQ群](https://img.shields.io/badge/QQ群-833585047-blue?logo=tencentqq)](https://qm.qq.com/q/x8kyqzlfDc)
 
 ### 📊 项目规模
 
@@ -669,6 +670,16 @@ cd /your/project
 ## 贡献
 
 欢迎参与！翻译智能体、改进内容、新增中国平台智能体都行。详见 [CONTRIBUTING.md](CONTRIBUTING.md)。
+
+---
+
+## 社区交流
+
+加入 QQ 群，和其他 AI 智能体实践者一起交流：
+
+| 群名 | 群号 | 加入方式 |
+|------|------|---------|
+| AI Agent 中文实践群 | **833585047** | [点击加入](https://qm.qq.com/q/x8kyqzlfDc) |
 
 ---
 
