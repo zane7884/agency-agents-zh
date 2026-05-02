@@ -30,7 +30,7 @@
 | 视觉叙事师 | `design/design-visual-storyteller.md` |
 | 趣味注入师 | `design/design-whimsy-injector.md` |
 
-## 🛠️ 工程部 (33)
+## 🛠️ 工程部 (34)
 
 | 中文名 | 文件路径 |
 |--------|----------|
@@ -47,6 +47,7 @@
 | DevOps 自动化师 | `engineering/engineering-devops-automator.md` |
 | 钉钉集成开发工程师 | `engineering/engineering-dingtalk-integration-developer.md` |
 | 嵌入式固件工程师 | `engineering/engineering-embedded-firmware-engineer.md` |
+| 上位机工程师 | `engineering/engineering-pc-host-engineer.md` |
 | Filament 优化专家 | `engineering/engineering-filament-optimization-specialist.md` |
 | 嵌入式 Linux 驱动工程师 | `engineering/engineering-embedded-linux-driver-engineer.md` |
 | 飞书集成开发工程师 | `engineering/engineering-feishu-integration-developer.md` |
